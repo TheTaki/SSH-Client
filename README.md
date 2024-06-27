@@ -1,6 +1,8 @@
 REQUIERMENTS:
 
 - pip install paramiko
+- min. Python 3.7
+  
 
 Um eine SSH Verbindung aufzubauen, wird die Libary Paramiko verwendet. Paramiko ist eine SSHv2 Libary für Python. Es gibt auch netmiko, welches eine abgewandelte version extra für Netzwerkgeräte ist. Allerdings wurde hier Paramiko genutzt. Als Quellen und zur Hilfestellung wurde die Dokumentation von Pramiko genutzt.
                                                                    https://www.paramiko.org/
